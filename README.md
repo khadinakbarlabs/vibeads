@@ -4,8 +4,6 @@ Research competitor ads. Find useful PPC keywords. Build a media plan you can re
 
 VibeAds is a skills-only plugin for paid advertising research and planning. It helps founders, agencies and marketing teams turn public ad-library records, keyword estimates and landing-page evidence into a competitor brief, original creative concepts, a budgeted campaign plan and a measurement checklist.
 
-![VibeAds icon](assets/icon.png)
-
 ## What you get
 
 - **Competitor ad research:** compare hooks, offers, calls to action, creative formats and destinations across Meta, Google, TikTok and LinkedIn. Pinterest and Snapchat research are available where their public libraries cover the requested market.
