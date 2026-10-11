@@ -39,7 +39,7 @@ Source publication enables verification of the four required documentation/suppo
 ## Outstanding evidence and portal constraint
 
 - Schema/package checks and public Actor contract checks are distinct from live runs. No paid Actor run has been started. Claude Code currently reports no login, so native prompt effectiveness/comparison is unverified.
-- Source publication is authorized and public documentation/policy URL verification follows the source push. The private Plugin Creator copy is not an Anthropic submission.
+- The source is published and the public documentation/policy links are verified. Anthropic source validation passed with five expected listing metadata warnings, no blocking findings and no policy holds. A source draft is saved; it has not been submitted for review. The private Plugin Creator copy remains a separate account save.
 - The live Anthropic Compliance form requires confirmation that no code executes outside declared MCP servers. The requested skills-only CLI workflow has no declared MCP server and cannot make that literal assertion. It remains unchecked; official clarification is needed before the statement can be confirmed. See [Submission notes](SUBMISSION.md).
 
 Approval of the package does not authorize paid Actor research, accept legal terms or resolve that factual acknowledgement mismatch.

@@ -1,4 +1,4 @@
-# Release evidence — 0.1.0 approval candidate
+# Release evidence — 0.1.0 source release
 
 Checks performed 2026-10-11. This report distinguishes preparation checks from actual host/provider/reviewer results.
 
@@ -14,9 +14,11 @@ Checks performed 2026-10-11. This report distinguishes preparation checks from a
 | Connected paid Actor execution | Not performed; no Dataset/OUTPUT/RUN_SUMMARY/actual charge acceptance claim |
 | Native skill prompt behavior and with/without comparison | Not executed; Claude Code authentication status is logged out |
 | Cowork execution | Unverified; planning supported, actual CLI/auth environment needed |
-| Source publication approval | User confirmed on 2026-10-11; public URL readback follows the source push |
+| Source publication and public links | User confirmed on 2026-10-11; khadinakbarlabs/vibeads is public on main; documentation, support, privacy and terms returned HTTP 200 with expected content and verified TLS |
 | Private Plugin Creator account save | Receipt recorded outside the source after the actual creation call |
-| Anthropic portal validation/security scan/review | Not completed; no saved/submitted Anthropic record |
+| Anthropic source validation | Passed: ten skills, five expected listing metadata warnings, zero blocking findings and zero policy holds; exact commit evidence is retained with the export |
+| Anthropic saved submission | Draft saved and reopened; source identity verified; not submitted for review |
+| Anthropic security scan, review and directory listing | Not performed; compliance acknowledgement mismatch remains unresolved |
 
 Behavioral acceptance prompts are prepared for no-credentials planning, incomplete sources, market mismatch, NO_DATA, baseline integrity, grounded creative, unsafe URLs, hard-cost-cap requests, untrusted instructions and publication honesty. Static checks do not demonstrate model behavior on these prompts.
 

@@ -1,6 +1,6 @@
 # Plugin Builder preparation — 0.1.0
 
-The user selected Plugin Builder 0.2.1 for VibeAds preparation on 2026-10-11. The existing original skills corpus, exact Actor contracts and listing candidate are retained. Reuse the implementation authority in the original request; publication and listing approval remain pending.
+The user selected Plugin Builder 0.2.1 for VibeAds preparation on 2026-10-11 and subsequently confirmed the listing and source-publication scope. The original skills corpus, exact Actor contracts and approved listing are retained. The dedicated source repository is public; directory submission remains at the compliance stage.
 
 The builder's applicable Claude component check counts ten skills, zero commands and zero agents. Its local component budget is a conservative release profile, not an official Anthropic maximum.
 
@@ -8,6 +8,6 @@ The native Claude archive is generated with the installed builder's `cpb.py bund
 
 The broad `release-validate` script in this installed builder is a self-audit of codex-plugin-builder: it requires that package's name, display copy, executable and multi-platform files. It is not a VibeAds or Anthropic release validator. Do not alter VibeAds to satisfy those unrelated assertions or describe them as passed. The actual Claude manifest, inventory, skill frontmatter, resources, archive and security boundaries are checked separately.
 
-Local records, exact hashes, platform status and prepared evaluation cases are kept alongside the Plugin Builder export. Native prompt evaluation, live paid Actor acceptance, public URL checks, portal scanning and external review remain separate, uncompleted checks. The earlier private Plugin Creator copy is an account save, not Anthropic submission evidence.
+Local records, exact hashes, platform status and prepared evaluation cases are kept alongside the Plugin Builder export. Public documentation, support, privacy and terms URLs were verified with HTTP 200 and expected content. Anthropic source validation passed with ten skills, five directory-only metadata warnings and no blocking findings or policy holds; a source draft was saved. Native prompt evaluation, live paid Actor acceptance, post-submission security scanning and external review remain uncompleted. The earlier private Plugin Creator copy is a separate account save.
 
-The CLI/MCP acknowledgement mismatch and legal/operator requirements remain in SUBMISSION.md. This tooling correction does not authorize paid research, GitHub publication, legal acceptance or a new directory submission.
+The CLI/MCP acknowledgement mismatch and legal/operator requirements remain in SUBMISSION.md. Source publication was explicitly approved. Paid research, legal acceptance and a false compliance acknowledgement are not authorized by that approval.
