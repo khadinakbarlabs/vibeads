@@ -1,0 +1,14 @@
+{
+  "startUrls": [
+    {
+      "url": "https://example.com/"
+    }
+  ],
+  "crawlScope": "page-only",
+  "maxPages": 1,
+  "maxDepth": 0,
+  "respectRobotsTxt": true,
+  "seedFromSitemap": false,
+  "maxConcurrency": 1,
+  "fetchMode": "direct"
+}

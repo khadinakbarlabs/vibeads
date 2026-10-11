@@ -1,0 +1,17 @@
+{
+  "mode": "planning",
+  "decision": null,
+  "offer": null,
+  "audience": null,
+  "primaryConversion": null,
+  "market": null,
+  "language": null,
+  "competitors": [],
+  "platformsRequested": [],
+  "window": { "start": null, "end": null, "timezone": null },
+  "mediaBudget": { "amount": null, "currency": null, "days": null },
+  "unitEconomics": { "firstOrderContribution": null, "targetCpa": null, "provenance": null },
+  "researchApproval": { "authorized": false, "actors": [], "builds": [], "inputsReviewed": false, "costControlsVerified": false },
+  "assumptions": [],
+  "missingData": []
+}

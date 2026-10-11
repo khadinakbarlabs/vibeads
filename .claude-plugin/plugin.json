@@ -1,0 +1,28 @@
+{
+  "name": "vibeads",
+  "displayName": "VibeAds: Paid Ads Research & Planner",
+  "version": "0.1.0",
+  "description": "Research competitor ads, PPC keywords and landing pages. Turn Meta, Google, TikTok and LinkedIn ad evidence into creative briefs and budgeted media plans with Apify Actors.",
+  "author": {
+    "name": "Khadin Akbar",
+    "url": "https://github.com/khadinakbarlabs"
+  },
+  "license": "MIT",
+  "keywords": [
+    "paid-ads",
+    "competitor-ad-research",
+    "ppc-planning",
+    "meta-ad-library",
+    "google-ads",
+    "tiktok-ads",
+    "keyword-research",
+    "media-planning"
+  ],
+  "icon": "./assets/icon.png",
+  "homepage": "https://github.com/khadinakbarlabs/vibeads",
+  "repository": "https://github.com/khadinakbarlabs/vibeads",
+  "documentationUrl": "https://github.com/khadinakbarlabs/vibeads/blob/main/README.md",
+  "supportUrl": "https://github.com/khadinakbarlabs/vibeads/issues",
+  "privacyPolicyUrl": "https://github.com/khadinakbarlabs/vibeads/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/khadinakbarlabs/vibeads/blob/main/TERMS.md"
+}

@@ -1,0 +1,10 @@
+{
+  "searchQuery": "Nike",
+  "searchType": "advertiser",
+  "country": "DE",
+  "dateFrom": "2026-10-01",
+  "dateTo": "2026-10-10",
+  "maxResults": 5,
+  "includeDetails": false,
+  "requestTimeoutSecs": 60
+}

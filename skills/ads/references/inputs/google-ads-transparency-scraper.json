@@ -1,0 +1,8 @@
+{
+  "searchQuery": "nike.com",
+  "searchType": "domain",
+  "countryCode": "US",
+  "adFormat": "ALL",
+  "maxResults": 5,
+  "enrichDetails": false
+}

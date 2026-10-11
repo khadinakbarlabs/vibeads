@@ -1,0 +1,9 @@
+{
+  "mode": "search",
+  "advertiserName": "Nike",
+  "countries": [
+    "fr"
+  ],
+  "status": "ANY",
+  "maxResults": 5
+}

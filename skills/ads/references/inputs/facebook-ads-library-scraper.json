@@ -1,0 +1,13 @@
+{
+  "mode": "search",
+  "searchTerms": [
+    "running shoes"
+  ],
+  "country": "US",
+  "status": "ACTIVE",
+  "maxResults": 5,
+  "maxPagesPerSearch": 1,
+  "enrichDetails": false,
+  "includeRawData": false,
+  "requestTimeoutSecs": 30
+}

@@ -1,0 +1,14 @@
+{
+  "searchTerms": [
+    "HubSpot"
+  ],
+  "searchMode": "accountOwner",
+  "countries": [
+    "US"
+  ],
+  "dateOption": "last-30-days",
+  "maxResults": 5,
+  "maxPagesPerSearch": 1,
+  "fetchAdDetails": false,
+  "outputMode": "compact"
+}

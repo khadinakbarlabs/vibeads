@@ -1,0 +1,11 @@
+{
+  "keyword": "running shoes",
+  "country": "US",
+  "period": "30",
+  "industry": "All Industries",
+  "objective": "All Objectives",
+  "adFormat": "All Formats",
+  "orderBy": "For You",
+  "maxResults": 5,
+  "responseFormat": "concise"
+}

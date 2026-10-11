@@ -1,0 +1,12 @@
+{
+  "keywords": [
+    "project management software",
+    "project management app",
+    "team task management"
+  ],
+  "mode": "free_tier",
+  "countryName": "United States",
+  "languageName": "English",
+  "maxKeywordsPerBatch": 25,
+  "onPartialFailure": "return_partial"
+}

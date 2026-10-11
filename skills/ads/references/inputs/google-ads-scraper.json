@@ -1,0 +1,12 @@
+{
+  "queries": [
+    "running shoes"
+  ],
+  "countryCode": "us",
+  "languageCode": "en",
+  "device": "desktop",
+  "maxAdsPerQuery": 3,
+  "maxPagesPerQuery": 1,
+  "includeBottomAds": true,
+  "engine": "auto"
+}

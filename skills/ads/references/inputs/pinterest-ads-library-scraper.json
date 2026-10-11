@@ -1,0 +1,11 @@
+{
+  "country": "FR",
+  "advertiserName": "Nike",
+  "startDate": "2026-10-01",
+  "endDate": "2026-10-10",
+  "category": "ALL",
+  "gender": "ALL",
+  "age": "ALL",
+  "maxResults": 5,
+  "requestTimeoutSecs": 30
+}
