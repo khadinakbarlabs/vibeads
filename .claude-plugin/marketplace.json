@@ -1,14 +1,14 @@
 {
   "name": "vibeads-marketplace",
   "owner": { "name": "Khadin Akbar" },
-  "metadata": { "description": "VibeAds paid advertising research and PPC planning skills", "version": "0.1.1" },
+  "metadata": { "description": "VibeAds paid advertising research and PPC planning skills", "version": "0.1.2" },
   "plugins": [
     {
       "name": "vibeads",
       "displayName": "VibeAds: Paid Ads Research & Planner",
       "source": "./",
       "description": "Competitor ad research, PPC keywords, creative briefs and budgeted media plans using Apify Actors.",
-      "version": "0.1.1"
+      "version": "0.1.2"
     }
   ]
 }

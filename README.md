@@ -51,7 +51,7 @@ For a local Claude Code session, load this folder using the official plugin flag
 claude --plugin-dir /absolute/path/to/vibeads
 ```
 
-This package contains Markdown skills, JSON reference data and templates, an original SVG icon and policy documents. It has **no bundled executable, MCP server, hook, agent, automatic installer or background scheduler**. Claude Code provides the shell and local-file capabilities; every requested action remains subject to the host's permissions.
+This package contains Markdown skills, JSON reference data and templates and policy documents. It has **no bundled executable, MCP server, hook, agent, automatic installer or background scheduler**. Claude Code provides the shell and local-file capabilities; every requested action remains subject to the host's permissions.
 
 Connected research requires the separately installed official **Apify CLI 1.10.0**, a user-authorized Apify login and sufficient account credits. Installation is a user setup step, never an action triggered by loading a skill. See the [CLI guide](skills/ads/references/cli-guide.md). If the host has no usable CLI, VibeAds prepares inputs and works from public evidence or planning assumptions expressly supplied for the task. Browser chat is a planning surface; connected execution in Cowork depends on its actual CLI and authentication environment and is not verified by this release.
 
