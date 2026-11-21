@@ -2,7 +2,7 @@
 
 Prepared against the current [plugin checklist](https://claude.com/docs/plugins/pre-submission-checklist), [submission guide](https://claude.com/docs/plugins/submit), [Directory Policy](https://support.claude.com/en/articles/13145358-anthropic-software-directory-policy) and [Directory Terms](https://support.claude.com/en/articles/13145338-anthropic-software-directory-terms), checked 2026-10-11.
 
-Requested listing title: **VibeAds: Paid Ads Research & Planner**. Identifier: **vibeads**. Publisher shown in the live portal: **Khadin Akbar**. Version: **0.1.0**. The plugin is skills-only and invokes a separately installed CLI for connected research.
+Requested listing title: **VibeAds: Paid Ads Research & Planner**. Identifier: **vibeads**. Publisher shown in the live portal: **Khadin Akbar**. Version: **0.1.2**. The plugin is skills-only and invokes a separately installed CLI for connected research.
 
 ## Before submission
 

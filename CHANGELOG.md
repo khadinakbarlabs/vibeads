@@ -2,7 +2,11 @@
 
 ## 0.1.2 — manifest cleanup
 
-Manifest cleanup for the Claude directory — removed listing-only and cross-tool keys from .claude-plugin/plugin.json and the unused agent-plugins root manifest; no behavior change.
+Manifest cleanup for the Claude directory — removed listing-only and cross-tool keys (display name, icon and documentation, support, privacy and terms URLs) from .claude-plugin/plugin.json and bumped the version in both manifests; no behavior change.
+
+## 0.1.1 — directory file types
+
+Shipped only directory-allowed file types: CSV templates are now wrapped as Markdown files with the original content in a code fence, SVG assets were dropped, links were updated and the patch version was bumped; no behavior change.
 
 ## 0.1.0 — approval candidate
 

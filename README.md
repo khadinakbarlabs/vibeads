@@ -75,6 +75,6 @@ VibeAds does not launch ads, change bids or budgets, purchase media, publish cre
 
 ## Review and release status
 
-Version 0.1.0 is the publisher-approved source release. Local package checks and public Actor contract checks passed; paid Actor execution and native prompt behavior remain unverified. Anthropic portal validation, security scanning, review and directory availability are separate states. See the [release checks](RELEASE-CHECKS.md) and [submission notes](SUBMISSION.md).
+Version 0.1.2 is the current source release; it changes only packaging and manifest metadata from the publisher-approved 0.1.0 release. Local package checks and public Actor contract checks passed; paid Actor execution and native prompt behavior remain unverified. Anthropic portal validation, security scanning, review and directory availability are separate states. See the [release checks](RELEASE-CHECKS.md) and [submission notes](SUBMISSION.md).
 
 [Privacy](PRIVACY.md) · [Terms](TERMS.md) · [Support](SUPPORT.md) · [Security](SECURITY.md) · [Research and attribution](RESEARCH.md)

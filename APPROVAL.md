@@ -12,7 +12,7 @@ The user confirmed the presented package and public-source publication on 2026-1
 
 **Publisher:** Khadin Akbar
 
-**Version:** 0.1.0
+**Version:** 0.1.2 (approved as 0.1.0; later patches change only packaging and manifest metadata)
 
 **Keywords:** paid ads, competitor ad research, PPC planning, Meta Ad Library, Google Ads, TikTok ads, keyword research, media planning.
 

@@ -1,6 +1,6 @@
-# Release evidence — 0.1.0 source release
+# Release evidence — 0.1.2 source release
 
-Checks performed 2026-10-11. This report distinguishes preparation checks from actual host/provider/reviewer results.
+Checks performed 2026-10-11 on 0.1.0; 0.1.1 and 0.1.2 change only packaging and manifest metadata. This report distinguishes preparation checks from actual host/provider/reviewer results.
 
 | Evidence | State |
 | --- | --- |

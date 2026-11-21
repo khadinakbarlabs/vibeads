@@ -1,4 +1,6 @@
-# Plugin Builder preparation — 0.1.0
+# Plugin Builder preparation — 0.1.2
+
+This preparation was performed on 0.1.0; 0.1.1 and 0.1.2 change only packaging and manifest metadata.
 
 The user selected Plugin Builder 0.2.1 for VibeAds preparation on 2026-10-11 and subsequently confirmed the listing and source-publication scope. The original skills corpus, exact Actor contracts and approved listing are retained. The dedicated source repository is public; directory submission remains at the compliance stage.
 
