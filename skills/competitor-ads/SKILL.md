@@ -5,7 +5,7 @@ description: "Research public competitor ads with Meta Ad Library, Google Ads Tr
 
 # Competitor ad research
 
-Read [workflow rules](../ads/references/workflow-rules.md), [Actor contracts](../ads/references/actor-contracts.md), [CLI guide](../ads/references/cli-guide.md) and the [competitor matrix](../ads/references/templates/competitor-matrix.csv).
+Read [workflow rules](../ads/references/workflow-rules.md), [Actor contracts](../ads/references/actor-contracts.md), [CLI guide](../ads/references/cli-guide.md) and the [competitor matrix](../ads/references/templates/competitor-matrix.csv.md).
 
 1. Confirm the competitors, exact public advertiser identities or domains, decision, market/language and capture window. Start with a small named set. Resolve ambiguous company names before attributing ads; matching brand words alone is insufficient.
 2. Choose only the requested platforms. Meta serves Facebook/Instagram library evidence; Google Transparency serves disclosed creatives and dates; Google sponsored SERPs are a separate query-specific source. TikTok Creative Center is a curated sample and differs from the Ads Library. LinkedIn, Pinterest and Snapchat may have narrower public-market coverage. The TikTok Ads Library Actor has a European-country enum: a US request cannot be executed as DE. Propose the US Creative Center source as a different source with explicit approval if useful.

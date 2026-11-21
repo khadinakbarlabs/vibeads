@@ -1,1 +1,7 @@
+# keywords.csv
+
+CSV template. Copy the fenced block into a `.csv` file when saving output; the block is the exact original file content.
+
+````csv
 keyword,cluster,intent,market,language,status,search_volume,cpc_usd,low_bid_usd,high_bid_usd,source,fetched_at,match_type_proposal,negative_candidate,rationale,confidence,evidence_ids
+````

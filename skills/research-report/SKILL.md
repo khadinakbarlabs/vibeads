@@ -5,7 +5,7 @@ description: "Produce a concise paid-ad research and planning report with recomm
 
 # Paid ads research report
 
-Read [workflow rules](../ads/references/workflow-rules.md), [report template](../ads/references/templates/report.md), [ledger](../ads/references/templates/evidence-ledger.csv) and [coverage template](../ads/references/templates/coverage.csv).
+Read [workflow rules](../ads/references/workflow-rules.md), [report template](../ads/references/templates/report.md), [ledger](../ads/references/templates/evidence-ledger.csv.md) and [coverage template](../ads/references/templates/coverage.csv.md).
 
 1. Confirm the decision and intended reader. Use only evidence expressly supplied for this task or produced by its approved research runs. Do not scrape hidden project state or unrelated reports.
 2. Lead with the recommended first test and why its evidence is stronger. Present competitor patterns, keyword candidates, creative directions, page requirements and budget/measurement choices only where relevant.

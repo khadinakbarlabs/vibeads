@@ -5,7 +5,7 @@ description: "Plan PPC keywords using user-supplied seed phrases, Google sponsor
 
 # PPC keyword planning
 
-Read [workflow rules](../ads/references/workflow-rules.md), [Actor contracts](../ads/references/actor-contracts.md), [CLI guide](../ads/references/cli-guide.md), [keyword template](../ads/references/templates/keywords.csv) and [planning math](../ads/references/planning-math.md).
+Read [workflow rules](../ads/references/workflow-rules.md), [Actor contracts](../ads/references/actor-contracts.md), [CLI guide](../ads/references/cli-guide.md), [keyword template](../ads/references/templates/keywords.csv.md) and [planning math](../ads/references/planning-math.md).
 
 1. Define the offer, conversion, target geography/language and first test's economic boundary. Start from phrases supplied by the user or visible in approved public ad evidence. Generated ideas are hypotheses until researched. The metrics Actor measures known phrases; it does not discover a complete keyword universe.
 2. Deduplicate, cluster and propose a small list across brand, competitor, high-intent category, use case and problem-aware phrases. Competitor trademarks and their landing pages need advertiser review before using them in ads. Do not mix brand/non-brand results or language markets.

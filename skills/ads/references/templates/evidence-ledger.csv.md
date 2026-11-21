@@ -1,1 +1,7 @@
+# evidence-ledger.csv
+
+CSV template. Copy the fenced block into a `.csv` file when saving output; the block is the exact original file content.
+
+````csv
 evidence_id,evidence_state,platform,advertiser,ad_id,source_url,captured_at,market,scope,actor_id,build_number,build_id,run_id,coverage_status,observation,limitation
+````
